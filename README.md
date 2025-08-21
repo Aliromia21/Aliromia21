@@ -68,7 +68,7 @@ A project built as part of the **Meta Backend Developer Specialization** (Course
 ---
 
 ## 🛠️ Future Work
-I am continuously improving these projects, adding new features, and experimenting with new technologies.  
+I am continuously improving these projects, adding new features, and experimenting with new technologies such as React.js , NodeJs and Typescript .  
 Stay tuned for updates! 🚀
 ---
 
