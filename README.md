@@ -1,89 +1,129 @@
-## 👋 Hi, I'm Ali Romia  
+# 👋 Hi, I'm **Ali Romia**
 
-💡 Software Engineer | Web Developer  
-Passionate software engineer with ~2 years of experience in building reliable and scalable back-end solutions. Skilled in JavaScript, PHP, Python, Laravel, React, and modern system architecture with a strong focus on clean code and user-centered development.  
+💡 **Backend / Full-Stack Engineer** — passionate about building scalable, secure, and maintainable systems with a clean-architecture mindset.  
+🎓 M.Sc. Computer Science (Technische Universität Braunschweig), based in **Hannover, Germany**.
 
 ---
 
 ## 🚀 About Me
-- 🌍 Based in **Hannover, Germany**  
-- 💻 Experienced in **JavaScript, Laravel, React, Python, Django**  
-- 📊 Strong background in building APIs, databases, and performance optimization  
-- 🔎 Passionate about writing clean code & contributing to open-source  
-- 🌱 Currently open to collaborations and new opportunities  
+- 2+ years building and optimizing web apps & APIs  
+- Strong in **Node.js**, **Laravel**, **React**, **Python**, **SQL/MongoDB**  
+- Focus on **API design**, **authentication**, **testing/CI**, and **performance**  
+- Open to **backend / full-stack engineering** roles and collaborations  
 
 ---
 
-# 📂 My Projects
+## 🧩 Tech Stack
 
-Here you will find a collection of projects I have built and published on GitHub.  
-Each project reflects my skills in JavaScript, Laravel, React, Python and my passion for creating functional and user-friendly applications.  
-
----
-
-## 🌐 Frontend Projects
-
-### 🏦 [Bankist](https://aliromia21.github.io/BaknistApp/)
-A modern and interactive marketing website for a bank, showcasing clean UI/UX with dynamic JavaScript effects.  
-- Tech stack:** HTML, CSS, JavaScript  
-- Features:** Animated sections, smooth scrolling, interactive components  
+| Category        | Tools / Technologies                                                                 |
+|-----------------|---------------------------------------------------------------------------------------|
+| **Languages**   | JavaScript (Node.js, React), PHP, Python, SQL                                        |
+| **Frameworks**  | Express.js, Laravel, Django, React                                                   |
+| **Databases**   | MongoDB, MySQL, PostgreSQL, Microsoft SQL Server                                     |
+| **DevOps**      | GitHub Actions (CI/CD), Docker (basic), REST APIs                                    |
+| **Security**    | JWT, Helmet, Rate Limiting, CORS, OAuth2 (basics)                                   |
+| **Concepts**    | Clean Architecture, Testing (Jest + Supertest), Swagger/OpenAPI, Performance Tuning  |
 
 ---
 
-### 🗺️ [Mapty](https://aliromia21.github.io/Js_Mapty_App/)
-A JavaScript web app that uses **Leaflet.js** to create an interactive map for tracking workouts and daily activities.  
-- **Tech stack:** JavaScript, Leaflet.js, HTML, CSS  
-- **Features:** Add workouts by clicking on the map, save data locally, view statistics  
+# 📂 Featured Projects
+
+### 🧭 [Digital Chaos Index API](https://github.com/Aliromia21/digital-chaos-index)
+> A **production-grade SaaS backend** that measures and tracks digital chaos levels (tabs, files, emails, etc.), helping users stay digitally organized.
+
+- **Stack:** Node.js, Express, MongoDB, Mongoose, JWT, Joi, Swagger, Jest, Supertest, GitHub Actions  
+- **Highlights:**
+  - Fully modular architecture (controllers, services, middleware)
+  - Authenticated CRUD API + dashboard analytics (daily/weekly/global)
+  - End-to-end test coverage with CI pipeline and Swagger docs `/api/docs`
+  - Security via Helmet, Rate Limiting, and CORS  
+- **Status:** ✅ 100% Tests Passing | ✅ CI Integrated  
+- **Type:** Backend SaaS API
 
 ---
 
-### 💼 [My Portfolio](https://aliromia21.github.io/My_Portfolio/)
-A personal portfolio website to showcase my projects and skills.  
-- **Tech stack:** HTML, CSS, JavaScript  
-- **Features:** Modern design, smooth animations, responsive layout  
+### 🌿 [Almasah & Nebras Agricultural Platform](https://github.com/Aliromia21/almasah-nebras-v2)
+> A complete **web platform** for Almasah & Nebras Agricultural Company featuring a dynamic public site and a robust Laravel admin dashboard.
+
+- **Stack:** Laravel 10, Blade, MySQL, AdminLTE, Bootstrap 5  
+- **Features:**
+  - Dynamic product, blog, and testimonial management  
+  - Admin dashboard with CRUD, image uploads, and message tracking  
+  - Animated UI (WOW.js, Animate.css, Owl Carousel)  
+  - Fully responsive and hosted on DreamHost  
+- **Status:** ✅ Live & Maintained (Private Deployment)  
+- **Type:** Full-Stack Web Platform
 
 ---
 
-## ⚙️ Full-Stack & Backend Projects
+### 🍽️ [Restaurant MVP API](https://github.com/Aliromia21/restaurant-mvp-api)
+> A **Restaurant Management API** built with Node.js and SQL Server — powering desktop and Android systems for table, order, and category management.
 
-### 🔒 LaravelApp
-A web application built with **Laravel** to practice authentication, database handling, and API integration.  
-- **Tech stack:** PHP, Laravel, MySQL  
-- **Features:** User authentication, CRUD operations, REST APIs  
-
----
-
-### 🍴 Forkify-Api
-A recipe search application built with JavaScript and API integration.  
-- **Tech stack:** JavaScript, HTML, CSS, API  
-- **Features:** Search recipes by keywords, view detailed cooking instructions, bookmark favorite recipes  
+- **Stack:** Node.js, Express.js, SQL Server, JWT, bcryptjs, dotenv  
+- **Features:**
+  - Role-based authentication (Captain, Cashier, Admin)  
+  - Real-time table & order status management  
+  - Clean RESTful API with modular routing  
+  - Secure password hashing and token handling  
+- **Status:** ✅ Fully Functional | ✅ Integrated with Android App  
+- **Type:** Backend API System  
 
 ---
 
-### 🍋 LittleLemon (Meta Backend Specialization)
-A project built as part of the **Meta Backend Developer Specialization** (Coursera).  
-- **Tech stack:** Python, Django, MySQL  
-- **Features:** Restaurant reservation system, API endpoints, database handling  
+### 🛰️ [Orbital Collision Simulation](https://github.com/Aliromia21/orbital-collision-simulation)
+> A **3D real-time orbital simulation** that visualizes satellite motion, detects collisions, and predicts close approaches using CesiumJS and React.
+
+- **Stack:** React 18, CesiumJS, Resium, JavaScript (ES6+), CSS  
+- **Highlights:**
+  - Real-time orbit visualization with glow trails  
+  - Predictive collision detection using physics-based math  
+  - Clean Architecture separation (Domain, Application, Presentation layers)  
+  - Interactive alerts and camera follow modes  
+- **Status:** ✅ Functional Simulation | 🎓 Research-inspired project  
+- **Type:** 3D Simulation / Visualization
 
 ---
 
-## 🛠️ Future Work
-I am continuously improving these projects, adding new features, and experimenting with new technologies such as React.js , NodeJs and Typescript .  
-Stay tuned for updates! 🚀
+### 🎬 [React Movie Clone](https://github.com/Aliromia21/React-movie-clone)
+> A **modern, responsive movie browsing app** built with React + Vite, inspired by Netflix UI and powered by the TMDb API.
+
+- **Stack:** React, Vite, CSS, TMDb API  
+- **Features:**
+  - Fetch and display trending, top-rated, and popular movies  
+  - Responsive layout for desktop & mobile  
+  - Interactive UI with hover animations and transitions  
+  - Modular component architecture for scalability  
+- **Status:** ⚙️ Continuously Updated  
+- **Type:** Frontend Application
+
 ---
 
-## 🛠️ Tech Stack
-- **Languages:** JavaScript, PHP, Python, Java  
-- **Frameworks:** Laravel, React, Django  
-- **Web:** HTML5, CSS3  
-- **Databases:** MySQL, MongoDB  
-- **Tools:** Git, Node.js, Docker  
+## 🧪 What I Care About
+- Writing **clean, testable, and modular code**  
+- Designing **secure and well-documented APIs**  
+- Building **automated CI pipelines** for reliability  
+- Creating **systems that scale and evolve gracefully**
+
+---
+
+## 🎓 Education
+- **M.Sc. Computer Science**, Technische Universität Braunschweig — *2025–present*  
+- **B.Sc. Computer Science**, Tishreen University — *2015–2022*  
+
+---
+
+## 🌐 Languages
+- **Arabic:** Native  
+- **English:** C1  
+- **German:** C1  
 
 ---
 
 ## 📫 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/aliromia/)  
-- [GitHub](https://github.com/Aliromia21)  
+- **LinkedIn:** [linkedin.com/in/aliromia](https://www.linkedin.com/in/aliromia/)  
+- **GitHub:** [github.com/Aliromia21](https://github.com/Aliromia21)  
+- **Email:** aliromiah13@gmail.com  
 
 ---
-✨ _Thanks for visiting my profile! Feel free to check out my repositories and connect with me._
+
+> ✨ Thanks for visiting my profile — feel free to explore my repositories or reach out for collaborations!
