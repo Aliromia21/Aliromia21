@@ -121,8 +121,8 @@
 
 ## 📫 Connect With Me
 - **LinkedIn:** [linkedin.com/in/aliromia](https://www.linkedin.com/in/aliromia/)  
-- **GitHub:** [github.com/Aliromia21](https://github.com/Aliromia21)  
-- **Email:** aliromiah13@gmail.com  
+- **GitHub:**   [github.com/Aliromia21](https://github.com/Aliromia21)  
+- **Email:**    aliromiah13@gmail.com  
 
 ---
 
