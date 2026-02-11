@@ -119,6 +119,19 @@
 
 ---
 
+## ☁️ Cloud & Deployment Focus
+
+I am actively migrating and deploying my systems to cloud infrastructure, working on production-grade deployment pipelines, performance tuning, and scalable architecture design.
+
+This includes:
+- Containerization & environment configuration
+- API performance optimization
+- Observability & monitoring setup
+- Clean architecture refinements
+- Preparing systems for high-availability workloads
+
+---
+
 ## 📫 Connect With Me
 - **LinkedIn:** [linkedin.com/in/aliromia](https://www.linkedin.com/in/aliromia/)  
 - **GitHub:**   [github.com/Aliromia21](https://github.com/Aliromia21)  
