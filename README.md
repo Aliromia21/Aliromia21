@@ -108,7 +108,7 @@
 
 ## Education
 - **M.Sc. Computer Science**, Technische Universität Braunschweig — *2025–present*  
-- **B.Sc. Computer Science**, Tishreen University — *2015–2022*  
+- **B.Sc. Computer Science**, Tishreen University — *2016–2022*  
 
 ---
 
