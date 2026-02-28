@@ -1,11 +1,11 @@
-# 👋 Hi, I'm **Ali Romia**
+# Hi, I'm **Ali Romia**
 
 💡 **Backend / Full-Stack Engineer** — passionate about building scalable, secure, and maintainable systems with a clean-architecture mindset.  
 🎓 M.Sc. Computer Science (Technische Universität Braunschweig), based in **Hannover, Germany**.
 
 ---
 
-## 🚀 About Me
+## About Me
 - 2+ years building and optimizing web apps & APIs  
 - Strong in **Node.js**, **Laravel**, **React**, **Python**, **SQL/MongoDB**  
 - Focus on **API design**, **authentication**, **testing/CI**, and **performance**  
@@ -13,7 +13,7 @@
 
 ---
 
-## 🧩 Tech Stack
+## Tech Stack
 
 | Category        | Tools / Technologies                                                                 |
 |-----------------|---------------------------------------------------------------------------------------|
@@ -26,9 +26,9 @@
 
 ---
 
-# 📂 Featured Projects
+# Featured Projects
 
-### 🧭 [Digital Chaos Index API](https://github.com/Aliromia21/digital-chaos-index)
+### [Digital Chaos Index API](https://github.com/Aliromia21/digital-chaos-index)
 > A **production-grade SaaS backend** that measures and tracks digital chaos levels (tabs, files, emails, etc.), helping users stay digitally organized.
 
 - **Stack:** Node.js, Express, MongoDB, Mongoose, JWT, Joi, Swagger, Jest, Supertest, GitHub Actions  
@@ -37,12 +37,12 @@
   - Authenticated CRUD API + dashboard analytics (daily/weekly/global)
   - End-to-end test coverage with CI pipeline and Swagger docs `/api/docs`
   - Security via Helmet, Rate Limiting, and CORS  
-- **Status:** ✅ 100% Tests Passing | ✅ CI Integrated  
+- **Status:**  100% Tests Passing |  CI Integrated  
 - **Type:** Backend SaaS API
 
 ---
 
-### 🌿 [Almasah & Nebras Agricultural Platform](https://github.com/Aliromia21/almasah-nebras-v2)
+### [Almasah & Nebras Agricultural Platform](https://github.com/Aliromia21/almasah-nebras-v2)
 > A complete **web platform** for Almasah & Nebras Agricultural Company featuring a dynamic public site and a robust Laravel admin dashboard.
 
 - **Stack:** Laravel 10, Blade, MySQL, AdminLTE, Bootstrap 5  
@@ -51,12 +51,12 @@
   - Admin dashboard with CRUD, image uploads, and message tracking  
   - Animated UI (WOW.js, Animate.css, Owl Carousel)  
   - Fully responsive and hosted on DreamHost  
-- **Status:** ✅ Live & Maintained (Private Deployment)  
+- **Status:** Live & Maintained (Private Deployment)  
 - **Type:** Full-Stack Web Platform
 
 ---
 
-### 🍽️ [Restaurant MVP API](https://github.com/Aliromia21/restaurant-mvp-api)
+### [Restaurant MVP API](https://github.com/Aliromia21/restaurant-mvp-api)
 > A **Restaurant Management API** built with Node.js and SQL Server — powering desktop and Android systems for table, order, and category management.
 
 - **Stack:** Node.js, Express.js, SQL Server, JWT, bcryptjs, dotenv  
@@ -65,12 +65,12 @@
   - Real-time table & order status management  
   - Clean RESTful API with modular routing  
   - Secure password hashing and token handling  
-- **Status:** ✅ Fully Functional | ✅ Integrated with Android App  
+- **Status:**  Fully Functional |  Integrated with Android App  
 - **Type:** Backend API System  
 
 ---
 
-### 🛰️ [Orbital Collision Simulation](https://github.com/Aliromia21/orbital-collision-simulation)
+###  [Orbital Collision Simulation](https://github.com/Aliromia21/orbital-collision-simulation)
 > A **3D real-time orbital simulation** that visualizes satellite motion, detects collisions, and predicts close approaches using CesiumJS and React.
 
 - **Stack:** React 18, CesiumJS, Resium, JavaScript (ES6+), CSS  
@@ -79,12 +79,12 @@
   - Predictive collision detection using physics-based math  
   - Clean Architecture separation (Domain, Application, Presentation layers)  
   - Interactive alerts and camera follow modes  
-- **Status:** ✅ Functional Simulation | 🎓 Research-inspired project  
+- **Status:**  Functional Simulation |  Research-inspired project  
 - **Type:** 3D Simulation / Visualization
 
 ---
 
-### 🎬 [React Movie Clone](https://github.com/Aliromia21/React-movie-clone)
+### [React Movie Clone](https://github.com/Aliromia21/React-movie-clone)
 > A **modern, responsive movie browsing app** built with React + Vite, inspired by Netflix UI and powered by the TMDb API.
 
 - **Stack:** React, Vite, CSS, TMDb API  
@@ -93,12 +93,12 @@
   - Responsive layout for desktop & mobile  
   - Interactive UI with hover animations and transitions  
   - Modular component architecture for scalability  
-- **Status:** ⚙️ Continuously Updated  
+- **Status:** Continuously Updated  
 - **Type:** Frontend Application
 
 ---
 
-## 🧪 What I Care About
+## What I Care About
 - Writing **clean, testable, and modular code**  
 - Designing **secure and well-documented APIs**  
 - Building **automated CI pipelines** for reliability  
@@ -106,20 +106,20 @@
 
 ---
 
-## 🎓 Education
+## Education
 - **M.Sc. Computer Science**, Technische Universität Braunschweig — *2025–present*  
 - **B.Sc. Computer Science**, Tishreen University — *2015–2022*  
 
 ---
 
-## 🌐 Languages
+## Languages
 - **Arabic:** Native  
 - **English:** C1  
 - **German:** C1  
 
 ---
 
-## ☁️ Cloud & Deployment Focus
+## Cloud & Deployment Focus
 
 I am actively migrating and deploying my systems to cloud infrastructure, working on production-grade deployment pipelines, performance tuning, and scalable architecture design.
 
@@ -132,11 +132,11 @@ This includes:
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 - **LinkedIn:** [linkedin.com/in/aliromia](https://www.linkedin.com/in/aliromia/)  
 - **GitHub:**   [github.com/Aliromia21](https://github.com/Aliromia21)  
 - **Email:**    aliromiah13@gmail.com  
 
 ---
 
-> ✨ Thanks for visiting my profile — feel free to explore my repositories or reach out for collaborations!
+> Thanks for visiting my profile — feel free to explore my repositories or reach out for collaborations!
