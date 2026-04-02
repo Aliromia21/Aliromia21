@@ -36,7 +36,7 @@ A distributed system that ingests security events, streams them through Kafka, d
 ### [Monitoring Platform](https://github.com/Aliromia21/monitoring-platform) — Production-Style HTTP Monitoring SaaS
 A monitoring engine for HTTP services with background workers, smart alerting, and a React dashboard. Inspired by Datadog and UptimeRobot.
 
-· [![CI](https://github.com/Aliromia21/monitoring-platform/actions/workflows/api-ci.yml/badge.svg)](https://github.com/Aliromia21/monitoring-platform/actions/workflows/api-ci.yml)
+ [![CI](https://github.com/Aliromia21/monitoring-platform/actions/workflows/api-ci.yml/badge.svg)](https://github.com/Aliromia21/monitoring-platform/actions/workflows/api-ci.yml)
 
 - BullMQ producer/consumer with retry logic, dead letter queue, and horizontal scaling
 - State machine alerting: DOWN → RECOVERY → SYSTEM_ERROR with consecutive failure thresholds
