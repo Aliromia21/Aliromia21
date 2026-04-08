@@ -15,8 +15,6 @@ I design and build backend systems that process data at scale — event streamin
 
 ### [ThreatStream](https://github.com/Aliromia21/threatstream) — Real-Time Threat Intelligence Pipeline
 A distributed system that ingests security events, streams them through Kafka, detects attack patterns with sliding-window analysis, and displays live threat analytics on a cybersecurity dashboard.
-
-### [ThreatStream](https://github.com/Aliromia21/threatstream) — Real-Time Threat Intelligence Pipeline
 [![CI](https://github.com/Aliromia21/threatstream/actions/workflows/ci.yml/badge.svg)](https://github.com/Aliromia21/threatstream/actions/workflows/ci.yml)
 
 
